@@ -1,0 +1,601 @@
+Data Visualization
+Predictive Analysis
+Statistical Modeling
+Data Mining
+Data Analytics
+Quantitative Analysis
+Machine Learning Algorithms
+Model Development 
+Python
+Data structures
+Data modeling
+Data visualization
+Predictive modeling
+Statistical modeling
+Regression
+Clustering and classification
+Web scraping
+Tensorflow
+Pytorch
+Keras
+Numpy
+Pandas
+SciKit Learn
+MATLAB
+Explanatory analysis
+Natural Language Processing
+PySpark.ML
+Jupyter Notebook 
+Clustering 
+Classification
+Quantitative Analysis  
+ML Algorithms 
+Web Scraping 
+Data Mining
+Natural Language Processing (NLP)
+Artificial Intelligence (AI)
+Linear Regression 
+Logistic Regression 
+KNN 
+Support Vector Machines (SVM) 
+Decision trees 
+Random Forest 
+Adaptive Boosting (ADABoost) 
+Gradient Boosting
+XGBoost and 
+K-Means Clustering,h Neural Networks 
+Artificial Neural Networks (ANN)
+Convolutional Neural Networks (CNN) 
+Recurrent Neural Networks (RNN) and 
+Long Short Term Memories(LSTM)
+Image pre-processing
+Image Segmentation
+Object detection
+Object recognition 
+tokenization
+stemming 
+lemmatization
+word2vec
+bag of words
+KeyBERT
+Cosine similarity
+Microsoft Azure
+Amazon Web Services (AWS)
+Model Deployment
+Google Cloud Platform (GCP)
+Statistics 
+Probability 
+Calculus
+Linear Algebra Analytical SKills
+Problem Solving Skills
+Feature Engineering
+Gradient Descent 
+Dockers
+SQL
+Structured Query Language
+Deep Learning (DL
+Summary
+
+ 
+
+Microsoft Certified Data Scientist with 10+ years of experience in Python, R, Java, and Scala. Applied data mining to analyze ABC Inc. procurement processes demonstrating potential savings of $420,000 a year. Seeking to leverage my data visualization and big data modeling skills to help increase XYZ’s investment returns in the upcoming year.
+
+ 
+
+Experience
+
+Senior Data Scientist
+ACB Inc.
+Los Angeles, CA
+2013–2019
+
+Developed end-to-end machine learning prototypes and scaled them to run in production environments. Increased efficiency by 23%.
+Contributed meaningful improvements to existing machine learning models through carefully directed research.
+Derived actionable insights from massive data sets with minimal support.
+Provided input into the collection of new data sources and the refinement of existing ones to improve analysis and model development.
+Key achievement: Applied data mining to analyze procurement processes resulting in savings of $420,000 a year.
+
+ 
+
+Machine Learning Specialist
+AnyCompany
+San Diego, CA
+2008–2013
+
+Collaborated with all team members to optimize Customer Relationship Management database for a high-volume real estate firm.
+Increased repeat business among real estate investors by 25%.
+Decreased wasted phone and email time by 57%.
+Build a machine-learning-based system of matching clients with tailored investment opportunities. Increased customer retention by 30%.
+ 
+
+Junior Data Analyst
+Capgemini
+San Diego, CA
+2005–2008
+
+Consulted and worked with development teams to determine, execute and deliver relevant solutions.
+Analyzed old information architectures and contributed to the design and development of the new one.
+Provided information, feedback and guidance to clients to support technology-related decision making.
+Technical Skills: Machine Learning, Data Visualization, Big Data, Data Mining
+Programming Languages: Python, R, Java, Scala, PERL
+Soft Skills: Problem-Solving, Active Learning, Risk Analysis
+Data Science Skills
+Hard Skills
+Statistics
+At least one programming language – R/ Python
+Data Wrangaling
+Data exploration
+Data Extraction
+Data Transformation and loading
+Machine Learning Algorithms
+Deep Learning
+Quantitative Analysis
+Mathematics
+Probability
+Debugging
+Soft Skills
+
+Critical thinking
+Research
+Collaboration
+Time management
+Communication
+WORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clientsWORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,WORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clients
+services opted in for, and the employees assigned to clients
+WORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clients
+WORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clients
+WORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clients
+WORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clientsWORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clients
+WORK EXPERIENCE
+Data Scientist
+Grubhub
+June 2018 - current / Princeton, NJ
+Deployed a recommendation engine to production to
+conditionally recommend other menu items based on past order
+history, increasing average order size by 7%
+Implemented various time series forecasting techniques to
+predict surge in orders, lowering customer wait by 10 minutes
+Designed a model in a pilot to increase incentives for drivers
+during peak hours, increasing driver availability by 22%
+Led a team of 3 data scientist to model the ordering process 5
+unique ways, reported results, and made recommendations to
+increase order output by 9%
+Data Scientist
+Spectrix Analytical Services
+March 2016 - June 2018 / Princeton, NJ
+Built a customer attrition random forest model that improved
+monthly retention by 12 basis points for clients likely to opt-out
+by providing relevant product features for them
+Coordinated with the product and marketing teams to determine
+what kind of client interactions resulted in maximized service
+opt-ins, increasing conversions by 18%
+Partnered with product team to create a production
+recommendation engine in Python that improved the length onpage for users with $225K in incremental annual revenue
+Compiled and analyzed data surrounding the prototypes for a
+prosthesis, which saved over $1M in its creation
+Entry-Level Data Analyst
+Avenica
+April 2015 - March 2016 / Mount Laurel, NJ
+Collaborated with product managers to perform cohort analysis
+that identified an opportunity to reduce pricing by 21% for a
+segment of users to boost yearly revenue by $560,000
+Constructed operational reporting in Tableau to improve
+scheduling contractors, saving $90,000 in the annual budget
+Implemented a long-term pricing experiment that improved
+customer lifetime value by 23%
+Ran, submitted, and reported on monthly client enrollments,
+services opted in for, and the employees assigned to clients
+Justine Hendrickson
+Metadata Scientist
+Data Science graduate with a passion for data integrity, visualization, and
+statistics. I’m excited to apply my passion for data science to the collaborative
+efforts of aChevron team focused on insightful, high-quality data analytics and
+visualizations.
+JustH@email.com
+(123) 456-7890
+Houston, TX
+LinkedIn
+Twitter
+WORK EXPERIENCE
+Labcorp
+Entry-Level Metadata Scientist
+Houston, TX | July 2021 - current
+Identified appropriate quantitative methods and built relevant data sets
+to address challenges across 6 different domains
+Implemented 32 statistical and machine learning solutions end-to-end
+through the life cycle of deploying and maintaining metadata at scale
+Developed measurement solutions and experimentation frameworks to
+ensure 100% informed and effective data-driven decision making
+Helped shape the technical vision and strategies of 2 engineering
+partner teams through data-driven recommendations
+Communicated project results and recommendations to 24 stakeholders
+and cross-functional partners
+PROJECTS
+Weather API Site
+Creator
+Used HTML5 to design a dashboard visual interface of a previous
+WeatherAPI app with citipy, a simple Python library, and the
+OpenWeatherMap API to create a weather model across 50+ world
+cities
+Added features to the app by applying a Bootstrap template, designing
+the website layout, and adding a picture carousel of cities used in the
+OpenWeatherMap API project
+Drafted detailed documentation of code utilizing GitHub, complete with
+charts and notes about each sub-page
+Stock Analysis
+Creator
+Used stock market KPIs to determine whether the tech sector of the
+stock market was in a bubble
+Displayed a working knowledge of Data ETL, Visualization, API
+frameworks, and statistical methods in Python to develop visualizations
+and implement analyses
+Cleaned historical data for over 600 companies (in NASDAQ and S&P
+500), accessing JSON endpoints for each company using (Python) Pandas
+SKILLS
+Python
+R
+SQL
+Tableau
+Hadoop
+Numpy
+EDUCATION
+B.S.
+Computer Science
+University ofHouston
+September 2017 - May 2021
+Houston, TX
+CERTIFICATIONS
+AWS
+Certified Data Scientist
+Looking for Data Science/Artificial intelligence/Deep learning/Computer vision/Machine learning jobs
+only.
+• Achievement-driven professional with an experience of 1 year in Python programming.
+• Experience of Machine learning algorithms like Linear and Logistic Regression, KNN, Support Vector
+Machines (SVM), Decision trees, Random Forest, Adaptive Boosting (ADABoost), Gradient Boosting,
+XGBoost and K-Means Clustering.
+• Skilled in libraries like Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Keras and OpenCV.
+• Strong Mathematical foundation and good at Statistics.
+• Feature engineering in Python – Missing value treatment, outlier handling, data transformation,
+feature selection and reshaping data using Python packages like Numpy, Pandas and Scikit Learn.
+• Good knowledge of Deep Learning (DL) and ample hands-on with Neural Networks, Artificial
+Neural Networks (ANN), Convolutional Neural Networks (CNN), Recurrent Neural Networks
+(RNN) and Long Short Term Memories(LSTM).
+• Basic Understanding of Computer Vision techniques like Image pre-processing, Image
+Segmentation, Object detection, Object recognition etc.
+• Basic Understanding of Natural Language Processing (NLP) techniques like tokenization,
+stemming, lemmatization, word2vec, bag of words and KeyBERT,Cosine similarity.
+• Good at fundamentals of SQL.
+• Good at fundamentals of C
+• Self-motivated collaborator with good communication and presentation skills.
+• Good analytical and problem solving skills
+ Programming Languages: Python, Machine Learning, Artificial Intelligence, Deep Neural Networks,
+Convolutional Neural Network, Numpy, Pandas, Sklearn, Tensorflow, Keras, OpenCV, HaarCascade, C.
+• Databases: MySQL
+• Deployment : Flask and Heroku
+• Visualization Tools and Libraries: Basic understanding of Matplotlib and Seaborn.
+• Platforms and Misc.: Anaconda, Jupyter Notebook, Google Colab, Pycharm IDE ,Spyder IDE, Windows 7/ W10/W11
+ Understanding the problem statement, analysing the problem, building
+architecture on how to solve the problem.
+ Collecting, cleaning, transforming and analysing the data.
+ Building Machine Learning and Deep Learning models.
+ Training and testing ML/ DL models using Tensorflow.
+ Learning Flask for Model Deployment.
+Strong Mathematical foundation and good in Statistics, Probability, Calculus and Linear Algebra.
+Experience of Machine learning algorithms like Simple Linear Regression, Multiple Regression, Polynomial Regression, Logistic Regression, SVM, kNN, Naive Bayes, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, XGBoost, K-fold cross validation, Grid Search, Random Search.
+Skilled in Minimizing the cost function based algorithms like: Gradient Descent, Stochastic Gradient Descent and Batch Gradient Descent and Regularizing Linear Models with the help of Ridge, Lasso and Elastic Net.
+Good knowledge of Clustering algorithms like K means, Agglomerative Hierarchical Clustering, Divisive Hierarchical Clustering, DBScan, Association Rule learning and Dimensionality Reduction like PCA, LDA.
+Feature Engineering in Python – Missing value treatment, outlier handling, data transformation, Feature Selection and reshaping data using Python packages like Numpy, Pandas and Scikit Learn.
+Data Visualization techniques with help of Matplotlib, Seaborn and Tableau.
+Good knowledge of Deep Learning (DL) and hands-on with Neural Network Architecture, Loss Function, Cost Function, Optimizers, Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN), LSTM.
+Skilled in libraries like Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Keras, OpenCV and NLTK.
+Basic Understanding of Computer Vision techniques like Image pre-processing, Image Segmentation, Object detection, Object recognition, Object tracking.
+Basic Understanding of Natural Language Processing (NLP) techniques like tokenization, stemming, lemmatization, Text Analysis, Matrix TFIDF and word2vec.
+Hands on Experience in working with Dockers, Containers, GPU, multiple GPU environment and Automatic Mixed Precision techniques.
+Experience in working with MySQL database using SQL and basic knowledge of MongoDB.
+Basic knowledge of Amazon Web Services (AWS) Cloud Computing.
+Good knowledge of Google Cloud Platform (GCP) and working with VMs and Servers.
+Self-motivated team player with good communication and presentation skills.
+Good analytical and problem solving skills.
